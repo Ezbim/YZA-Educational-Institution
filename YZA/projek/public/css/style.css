@@ -1,0 +1,24 @@
+.badge {
+    margin-left: 3px;
+}
+
+.navbar{
+    color: white !important;
+}
+
+.custom-background {
+    background-image: url('https://media.istockphoto.com/id/1430114131/photo/college-students-taking-notes-during-class.jpg?s=170667a&w=0&k=20&c=6aOBryPHZgUeNwUQscYCU1WVd8dvwcETCyixC-C43sI=');
+    background-size: cover; /* Adjust as needed (cover, contain, etc.) */
+    background-position: center center; /* Adjust as needed (center, top, left, etc.) */
+    /* Add any other background-related styles here */
+    color: white;
+    
+  }
+
+  .text-shadow {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Adjust the values as needed */
+  }
+
+  .no-border { 
+    border: none !important;
+  }
