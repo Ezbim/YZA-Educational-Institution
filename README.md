@@ -13,7 +13,7 @@ XAMPP
 
 
 **Nama Kelompok**
-1. Elza Satria Bhima Sakti
+1. Elza Satria Bhima Sakti (@ezbim) - Mengerjakan homepage, Konfigurasi boiler plate, dan Routing.
 2. Amril Setia Pratama
 3. Gin Gintara
 
